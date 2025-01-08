@@ -70,5 +70,10 @@ h1 span{
     margin: 20px;
     font-size: 30px;
     justify-content: center;
-
+}
+footer p{
+    
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
 }
